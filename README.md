@@ -2,9 +2,10 @@
 
 ## Descrição do projeto:
 Aplicativo para cálculo do Índice de Massa Corporal (IMC) desenvolvido com React Native e Expo. Permite que usuários calculem seu IMC informando peso e altura, recebendo como resultado o valor do IMC e sua classificação conforme padrões da OMS.
+<img width="1916" height="832" alt="Abaixo do peso" src="https://github.com/user-attachments/assets/8c41b183-23eb-4696-844e-1b06063c4f3a" />
+<img width="397" height="813" alt="Celular" src="https://github.com/user-attachments/assets/dcd41999-2fe7-4839-b02a-4538482647cd" />
 
-<img width="1918" height="782" alt="image" src="https://github.com/user-attachments/assets/0175c8ad-f1cf-4cc6-9803-dcfd0befc70d" />
-<img width="397" height="813" alt="image" src="https://github.com/user-attachments/assets/efbd9fda-6583-46aa-97b5-21a8f8081563" />
+
 
 ## Tecnologias utilizadas: 
 - React Native
